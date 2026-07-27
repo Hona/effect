@@ -1,5 +1,14 @@
 # @effect/platform-browser
 
+## 4.0.0-beta.103
+
+### Patch Changes
+
+- [#6659](https://github.com/Effect-TS/effect/pull/6659) [`cc27b19`](https://github.com/Effect-TS/effect/commit/cc27b194b9d13fa3a66ab037e853fca9d41700ff) Thanks @tim-smart! - Preserve prototype accessors when code is compiled with loose object spread transforms.
+
+- Updated dependencies [[`205ebc7`](https://github.com/Effect-TS/effect/commit/205ebc776062012581e98fced7ced19adfc44ee7), [`ed0ebf8`](https://github.com/Effect-TS/effect/commit/ed0ebf8e5c864d46fed1f232e99c0e680f10a58f), [`cc27b19`](https://github.com/Effect-TS/effect/commit/cc27b194b9d13fa3a66ab037e853fca9d41700ff)]:
+  - effect@4.0.0-beta.103
+
 ## 4.0.0-beta.102
 
 ### Patch Changes
